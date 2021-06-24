@@ -1,0 +1,9 @@
+{
+    "name": "PWA Development Test",
+    "short_name": "PWA",
+    "start_url": ".",
+    "background_color": "#efb75b",
+    "theme_color": "#000000",
+    "display": "standalone"
+    
+}
